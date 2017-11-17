@@ -1,0 +1,13 @@
+1 = {
+	name=Magnus # Founder of the Hindu Shahi dynasty
+	religion = catholic
+	culture = turkish
+	trait = genius
+	dynasty = 1
+	1780.1.1 = {
+		birth=yes
+	}
+	2016.1.1 = {
+		death=yes
+	}
+}

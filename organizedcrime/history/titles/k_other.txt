@@ -1,0 +1,6 @@
+# k_other
+1900.1.1={
+	law = agnatic_succession
+	law = succ_gavelkind
+	holder = 1
+}
